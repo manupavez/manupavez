@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning UX/UI design & Reac
 - 👨‍💻 All of my projects are available at ***[www.manupavez.dev](https://www.manupavez.dev)***
->- 📫 How to reach me ***hola@manupavez.dev***
+- 📫 Contact my: ***hola@manupavez.dev***
 - ⚡ **Fun fact** > I have ***over 25 consoles of videogames*** (I buy and sell regularly, contact me) :)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=manupavez&show_icons=true)
