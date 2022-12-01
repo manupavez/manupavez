@@ -1,4 +1,4 @@
-<h1 align="center">Hola 😶‍🌫️ soy Manu Pavez ⚡</h1>
+<h1 align="center">Hola 😶‍🌫️ soy Manu Pavez⚡</h1>
 <h3 align="center">Apasionado por la tecnologia y la Programacion 💻 & Gamer de toda la vida:video_game:</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-hola@manupavez.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hola@manupavez.dev)](mailto:hola@manupavez.dev) 
