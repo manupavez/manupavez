@@ -8,11 +8,14 @@
   <a href="https://www.github.com/manupavez/">![Github Badge](https://img.shields.io/badge/-manuelpavez-grey?style=flat&logo=github&logoColor=white&link=https://github.com/manupavez/)</a>
 
 </div>
+
+<div align="center">
+
 - :books:	 Actualmente me encuentro aprendiendo y mejorando mis conocimientos en programación
 - :briefcase:	💻 My projects are available at ***[www.manupavez.dev](https://www.manupavez.dev)***
 - 📫 Need contact me? Please write to me at: ***hola@manupavez.dev***
 - ⚡ **Fun fact** > I have 5 cats (japanese bobtail) and ***over 25 consoles of videogames*** (I buy and sell regularly, contact me) :slightly_smiling_face:	
-
+</div>
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=manupavez&show_icons=true)
 
 >**Languages**
