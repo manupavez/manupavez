@@ -1,4 +1,4 @@
-<h1 align="center">Hola 🙂, soy Manu Pavez</h1>
+<h1 align="center">Hola 😶‍🌫️ soy Manu Pavez ⚡</h1>
 <h3 align="center">Apasionado por la tecnologia y la Programacion 💻 & Gamer de toda la vida:video_game:</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-hola@manupavez.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hola@manupavez.dev)](mailto:hola@manupavez.dev) 
@@ -7,7 +7,7 @@
 - :books:	 Actualmente me encuentro aprendiendo y mejorando mis conocimientos en programación
 - :briefcase:	💻 My projects are available at ***[www.manupavez.dev](https://www.manupavez.dev)***
 - 📫 Need contact me? Please write to me at: ***hola@manupavez.dev***
-- ⚡ **Fun fact** > I have ***over 25 consoles of videogames*** (I buy and sell regularly, contact me) :slightly_smiling_face:	
+- ⚡ **Fun fact** > I have 5 cats (bobtail japanese) and ***over 25 consoles of videogames*** (I buy and sell regularly, contact me) :slightly_smiling_face:	
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=manupavez&show_icons=true)
 
