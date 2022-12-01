@@ -1,6 +1,15 @@
 <h1 align="center">Hola 😶‍🌫️ soy Manu Pavez⚡</h1>
 <h3 align="center">Apasionado por la tecnología y la Programación 💻 y un Gamer de toda la vida :video_game:</h3>
 
+<div align="center">
+
+  <a href="mailto:hola@manupavez.dev">!![Gmail Badge](https://img.shields.io/badge/-hola@manupavez.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hola@manupavez.dev)</a>
+  <a href="">![example2](https://img.shields.io/badge/example-two-green)</a>
+  <a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
+
+</div>
+
+
 <p align="center">
 [![Gmail Badge](https://img.shields.io/badge/-hola@manupavez.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hola@manupavez.dev)](mailto:hola@manupavez.dev) 
 [![Linkedin Badge](https://img.shields.io/badge/-manuelpavez-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-pavez-chavez/)](https://www.linkedin.com/in/manuel-pavez-chavez/) [![Github Badge](https://img.shields.io/badge/-manuelpavez-grey?style=flat&logo=github&logoColor=white&link=https://github.com/manupavez/)](https://www.github.com/manupavez/)
