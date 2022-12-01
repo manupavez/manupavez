@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <a href="mailto:hola@manupavez.dev">!![Gmail Badge](https://img.shields.io/badge/-hola@manupavez.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hola@manupavez.dev)</a>
+  <a href="mailto:hola@manupavez.dev">![Gmail Badge](https://img.shields.io/badge/-hola@manupavez.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hola@manupavez.dev)</a>
   <a href="">![example2](https://img.shields.io/badge/example-two-green)</a>
   <a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
 
